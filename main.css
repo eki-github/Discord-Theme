@@ -81,7 +81,7 @@
   }
   @font-face {
     font-family: 'Evolve Sans Bold';
-    src: url('https://github.com/eki-github/Discord-Theme-New/blob/main/Evolve%20Sans%20Bold.otf') format('otf');
+    src: url('Evolve Sans Bold.otf') format('otf');
   }
   @-webkit-keyframes cv-fade-in {
     from {
