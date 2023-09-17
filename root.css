@@ -207,6 +207,22 @@
     filter: hue-rotate(360deg);
   }
 }
+.item-2LIpTv {
+  animation: var(--unread-server-animation) 3s linear infinite;
+  border: 2px solid var(--main-theme-color);
+  background: 0 0;
+  border-radius: 100%;
+  display: block;
+  margin-left: 0;
+  margin-top: 0;
+  position: absolute;
+  top: -2px;
+  border-radius: 0% !important;
+  right: 3px !important;
+  width: 48px;
+  height: 48px !important;
+  transform: none !important;
+}
 .wrapper-1_HaEi
   .scroller-3X7KbA
   > div.listItem-GuPuDH:nth-child(1)
